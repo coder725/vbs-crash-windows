@@ -4,4 +4,4 @@ Does what it says, just run the python file to make your crasher script.
 In BETA stage, next update for diffrent files to stress task manager.
 The crasher will crash your PC but wont affect the next boot.
 consider crediting me on your uses.
-😣 Pls donate to dogecoin account: D7FnbGK7BHfi7vzGb7ck4b5zb4AaMwqTLo 😣
+😣 Pls donate to dogecoin account: DA4ZcgvAi5EBrHae8YBiwPXKaRBwUVjRed 😣
